@@ -25,7 +25,7 @@ https://developer.nvidia.com/nvidia-sdk-manager
 
         타겟 보드 설정에서  jetson-nano Developer Kit  선택후  jetpack 버전 4.2.2 선택 후 다음 단계로 넘어간다.
 
-        경로 설정은 기본으로 설정 하여 설치 나중에 자신이 변경해서 설치 하면 os flash 할떄 찾기 힘듬.
+        경로 설정은 기본으로 설정 하여 설치 나중에 자신이 변경해서 설치 하면 os flash 할때 찾기 힘듬.
 8. HOST COMPONENTS,jetson os flash 다운
 
         jetson os flash를 위해서 일단 타겟 보드dml jetpack 구성소프트웨어 설치 전단계 까지 선택후 실행. 
