@@ -1,5 +1,5 @@
-# Jetson nano jepack 4.2.2 install
-Jetson nano jepack 4.x.x 버전에는 flash error 발생 이슈가 있음.
+# Jetson nano jetpack 4.2.2 install
+Jetson nano jetpack 4.x.x 버전에는 flash error 발생 이슈가 있음.
 
 ##  설치시 준비 사항 
 1. host pc (linux ubuntu 18.04 추천)
