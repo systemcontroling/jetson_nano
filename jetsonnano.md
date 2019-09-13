@@ -51,7 +51,7 @@ https://developer.nvidia.com/nvidia-sdk-manager
 
 ## updata 
 
-엽데이트는 리눅스 ubuntu 18.04와 같은 명령어 로 수행 하면 됨.
+업데이트는 리눅스 ubuntu 18.04와 같은 명령어 로 수행 하면 됨.
 
     $ sudo apt-get update
     $ sudo apt-get upgrade
