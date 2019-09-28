@@ -59,7 +59,7 @@ Tensorflow gpu install
 
     $ pip install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu==1.13.1+nv19.3
 
-설치는 되어 있으나 opencv  버전처럼 다르면 작동시 어려움이 있을수 있어서 그냥 설치함 (선택)
+설치는 되어 있으나 opencv 버전처럼 다르면 작동시 어려움이 있을 수 있어서 그냥 설치함 (선택)
 
 마지막으로 SciPy and Keras
 
